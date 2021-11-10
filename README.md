@@ -1,6 +1,6 @@
-##  Rasa 简单的中文任意地区天气查询聊天机器人
+##  Rasa 简单的中文天气查询聊天机器人
 
-基于[luojie1024](https://github.com/luojie1024)Rasa2.0, Rasa X，支持中国所有地区天气查询
+基于[luojie1024](https://github.com/luojie1024)Rasa2.0, Rasa X，支持中文城市天气查询
 
 ### 依赖包安装
 
